@@ -16,12 +16,9 @@ redirect_from:
 
 ## Education
 
-**Virginia Tech**, Blacksburg, VA
-B.A. in Communication, expected May 2027
+Virginia Tech Class of 2027 Communications & Professional Sales student with Human Resources Generalist experience across talent acquisition, onboarding, HRIS, employee relations & workforce operations in a high-growth environment. Combines recruiting, relationship-building & project execution skills to support talent strategy, employee engagement & organizational growth. 
 
-**Major:** Communication 
-**Minor:** Professional Sales
-**GPA:** 3.76
+B.A in Communication | Minor: Professional Sales | GPA: 3.72 | Dean’s List (All 6 semesters) 
 
 ## Professional Experience
 
@@ -41,22 +38,24 @@ B.A. in Communication, expected May 2027
 
 ## Skills
 
-**HRIS & Systems:** iSolved recruiting/ATS| Homebase |Indeed, LinkedIn, ZipRecruiter | Sitecore (CMS) | Salesforce, HubSpot (CRM) | Canva Tools: Excel | PowerPoint | Word | Adobe Photoshop, Lightroom 
+**HRIS & Systems:** iSolved recruiting/ATS| Homebase |Indeed, LinkedIn, ZipRecruiter | Sitecore (CMS) | Salesforce, HubSpot (CRM) | Canva 
+**Tools:** Excel | PowerPoint | Word | Adobe Photoshop, Lightroom 
 
 ## Coursework Represented in This Portfolio
 
 - CMST 4714: The Human Communicator in an Era of AI (Senior, Fall 2026)
-- CMST 4544: Public Relations Campaigns (Junior, Spring 2026)
-- CMST 3614: Organizational Communication (Junior, Fall 2025)
-- CMST 3054: Digital Media Writing (Sophomore, Fall 2024)
-- CMST 2074: Interpersonal Communication (Freshman, Spring 2024)
-- CMST 1016: Introduction to Public Speaking (Freshman, Fall 2023)
+- CMST 3124: Interpersonal Communication (Junior, Spring 2026)
+- COMM 2124: Intro Comm Research (Junior, Spring 2026)
+- COMM 2024: Media Writing (Sophomore, Fall 2024)
+- COMM 1015 & COMM 1016: Communciation Skills (Freshman, Fall & Spring)
 
 ## Additional Relevant Coursework
 
-- CMST 3224: Communication Theory
-- ENGL 2024: AI and Writing
-- PHIL 1404: Ethics and Technology
+**Womens Club Basketball President**- (2024 to Current) 
+- Scaled program from 10 to 21 players & 1 to 2 teams through recruitment & retention; serve as acting head coach, leading 3x/week practices & competitive play
+
+**Delta Gamma Sorority | Recruitment** (2024- Current)
+- Led outreach, relationship-building & evaluation of prospective members, driving successful class selection & chapter growth 
 
 <!-- ============================================================ -->
 <!-- END OF EXAMPLE. REPLACE WITH YOUR OWN CV ABOVE THIS LINE.   -->
