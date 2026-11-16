@@ -18,7 +18,7 @@ redirect_from:
 
 Virginia Tech Class of 2027 Communications & Professional Sales student with Human Resources Generalist experience across talent acquisition, onboarding, HRIS, employee relations & workforce operations in a high-growth environment. Combines recruiting, relationship-building & project execution skills to support talent strategy, employee engagement & organizational growth. 
 
-B.A in Communication | Minor: Professional Sales | GPA: 3.72 | Dean’s List (All 6 semesters) 
+B.A in Communication / Minor: Professional Sales / GPA: 3.72 / Dean’s List (All 6 semesters) 
 
 ## Professional Experience
 
@@ -38,8 +38,8 @@ B.A in Communication | Minor: Professional Sales | GPA: 3.72 | Dean’s List (Al
 
 ## Skills
 
-**HRIS & Systems:** iSolved recruiting/ATS| Homebase |Indeed, LinkedIn, ZipRecruiter | Sitecore (CMS) | Salesforce, HubSpot (CRM) | Canva 
-**Tools:** Excel | PowerPoint | Word | Adobe Photoshop, Lightroom 
+**HRIS & Systems:** iSolved recruiting/ATS / Homebase / Indeed, LinkedIn, ZipRecruiter / Sitecore (CMS) / Salesforce, HubSpot (CRM) / Canva 
+**Tools:** Excel / PowerPoint / Word / Adobe Photoshop, Lightroom 
 
 ## Coursework Represented in This Portfolio
 
