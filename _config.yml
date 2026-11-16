@@ -25,11 +25,11 @@ description              : >
 # Replace "vt-evia" with your GitHub username, and set baseurl to "" (empty quotes).
 url                      : "https://lillydonohoe.github.io"            # -> "https://yourusername.github.io"
 baseurl                  : ""         # -> ""
-repository               : "lillydonohoe/lillydonohoe.github.com"  # -> "yourusername/yourusername.github.io"
+repository               : "lillydonohoe/lillydonohoe.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Lilly Donohoe's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Lilly Donohoe"
-  avatar   : "/images/bio-photo.jpg"
+  avatar   : "bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
   email    : "lillydonohoe@vt.edu"
